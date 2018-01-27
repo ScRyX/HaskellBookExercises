@@ -1,0 +1,7 @@
+-- 1) nf 
+-- 2) whnf 
+-- 3) nothing 
+-- 4) nothing
+-- 5) nothing
+-- 6) nothing
+-- 7) whnf
